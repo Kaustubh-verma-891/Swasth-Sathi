@@ -1,0 +1,106 @@
+{
+    "welcome_page": {
+        "header_title": "ਹੈਲਥਕੇਅਰ ਕਿਓਸਕ",
+        "main_heading": "ਹੈਲਥਕੇਅਰ ਕਿਓਸਕ ਵਿੱਚ ਸਵਾਗਤ ਹੈ",
+        "main_subheading": "ਤੇਜ਼ ਅਤੇ ਆਸਾਨ ਸਿਹਤ ਜਾਂਚ ਲਈ ਤੁਹਾਡਾ ਇੱਕ ਹੀ ਹੱਲ।",
+        "language_label": "ਭਾਸ਼ਾ ਚੁਣੋ:",
+        "language_options": [
+            "ਅੰਗਰੇਜ਼ੀ",
+            "ਹਿੰਦੀ",
+            "ਸਪੈਨਿਸ਼",
+            "ਫ੍ਰੈਂਚ"
+        ],
+        "speak_button": "ਬੋਲੋ",
+        "start_health_check_button": "ਸਿਹਤ ਜਾਂਚ ਸ਼ੁਰੂ ਕਰੋ",
+        "footer_text": "© 2025 ਹੈਲਥਕੇਅਰ ਕਿਓਸਕ. ਸਾਰੇ ਹੱਕ ਸੁਰੱਖਿਅਤ।"
+    },
+    "patient_selection_page": {
+        "header_title": "ਹੈਲਥਕੇਅਰ ਕਿਓਸਕ",
+        "main_heading": "ਹੈਲਥਕੇਅਰ ਕਿਓਸਕ ਵਿੱਚ ਸਵਾਗਤ ਹੈ",
+        "subheading": "ਕਿਰਪਾ ਕਰਕੇ ਅੱਗੇ ਵਧਣ ਲਈ ਆਪਣਾ ਵਿਕਲਪ ਚੁਣੋ",
+        "new_user_button": "ਨਵਾਂ ਉਪਭੋਗੀ",
+        "existing_user_button": "ਮੌਜੂਦਾ ਉਪਭੋਗੀ",
+        "footer_text": "© 2025 ਹੈਲਥਕੇਅਰ ਕਿਓਸਕ. ਸਾਰੇ ਹੱਕ ਸੁਰੱਖਿਅਤ।"
+    },
+    "registration_page": {
+        "header_title": "ਹੈਲਥਕੇਅਰ ਕਿਓਸਕ",
+        "page_title": "ਹੈਲਥਕੇਅਰ ਕਿਓਸਕ ਮਰੀਜ਼ ਰਜਿਸਟ੍ਰੇਸ਼ਨ",
+        "patient_id_label": "ਮਰੀਜ਼ ਆਈਡੀ:",
+        "form_labels": {
+            "name": "ਨਾਮ",
+            "gender": "ਲਿੰਗ",
+            "age": "ਉਮਰ",
+            "phone": "ਫੋਨ",
+            "relative_phone": "ਵਿਕਲਪਿਕ ਫੋਨ",
+            "email": "ਈਮੇਲ",
+            "address": "ਪਤਾ"
+        },
+        "gender_options": [
+            "ਲਿੰਗ ਚੁਣੋ",
+            "ਪੁਰਸ਼",
+            "ਔਰਤ",
+            "ਹੋਰ"
+        ],
+        "submit_button": "ਜਮ੍ਹਾਂ ਕਰੋ",
+        "validation_errors": {
+            "required": "ਲੋੜੀਂਦਾ",
+            "age_positive_integer": "ਇਹ ਇੱਕ ਸਕਾਰਾਤਮਕ ਪੂਰਨ ਅੰਕ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ",
+            "phone_invalid": "ਅਮਾਨਯ ਫੋਨ ਨੰਬਰ",
+            "email_invalid": "ਅਮਾਨਯ ਈਮੇਲ ਫਾਰਮੈਟ"
+        },
+        "footer_text": "© 2025 ਹੈਲਥਕੇਅਰ ਕਿਓਸਕ. ਸਾਰੇ ਹੱਕ ਸੁਰੱਖਿਅਤ।"
+    },
+    "patient_id_page": {
+        "header_title": "ਹੈਲਥਕੇਅਰ ਕਿਓਸਕ",
+        "page_title": "ਮੌਜੂਦਾ ਮਰੀਜ਼ – ਆਪਣੀ ਵਿਲੱਖਣ ਮਰੀਜ਼ ਆਈਡੀ ਦਰਜ ਕਰੋ",
+        "patient_id_placeholder": "ਮਰੀਜ਼ ਆਈਡੀ ਦਰਜ ਕਰੋ",
+        "phone_placeholder": "ਫੋਨ ਨੰਬਰ ਦਾਖਲ ਕਰੋ",
+        "continue_button": "ਜਾਰੀ ਰੱਖੋ",
+        "validation_errors": {
+            "required": "ਮਰੀਜ਼ ਆਈਡੀ ਲੋੜੀਂਦੀ ਹੈ",
+            "invalid_format": "ਮਰੀਜ਼ ਆਈਡੀ ਵਿੱਚ ਸਿਰਫ ਅੱਖਰ ਅਤੇ ਅੰਕ ਹੋਣੇ ਚਾਹੀਦੇ ਹਨ"
+        },
+        "footer_text": "© 2025 ਹੈਲਥਕੇਅਰ ਕਿਓਸਕ. ਸਾਰੇ ਹੱਕ ਸੁਰੱਖਿਅਤ।"
+    },
+    "doctor_ai_selection_page": {
+        "header_title": "ਹੈਲਥਕੇਅਰ ਕਿਓਸਕ",
+        "main_heading": "ਹੈਲਥਕੇਅਰ ਕਿਓਸਕ ਵਿੱਚ ਸਵਾਗਤ ਹੈ",
+        "subheading": "ਕਿਰਪਾ ਕਰਕੇ ਆਪਣਾ ਸਲਾਹਕਾਰ ਵਿਕਲਪ ਚੁਣੋ",
+        "ai_consultation_button": "AI ਨਾਲ",
+        "doctor_consultation_button": "ਡਾਕਟਰ ਨਾਲ",
+        "footer_text": "© 2025 ਹੈਲਥਕੇਅਰ ਕਿਓਸਕ. ਸਾਰੇ ਹੱਕ ਸੁਰੱਖਿਅਤ।"
+    },
+    "ai_interaction_page": {
+        "title": "ਏਆਈ ਸਿਹਤ ਸਲਾਹ",
+        "prompt": "ਆਪਣੇ ਲੱਛਣ ਵੇਰਵਾ ਦਿਓ",
+        "placeholder": "ਆਪਣੇ ਲੱਛਣ ਵੇਰਵਾ ਦਿਓ...",
+        "send_button": "ਭੇਜੋ",
+        "microphone_toggle": "ਮਾਈਕ੍ਰੋਫੋਨ ਟੌਗਲ ਕਰੋ",
+        "footer_text": "ਤੁਹਾਡੀ ਸਿਹਤ, ਸਾਡੀ ਤਰਜੀਹ। ਸਿਹਤਮੰਦ ਰਹੋ!"
+    },
+    "diagnostic_questions_page": {
+        "header_title": "ਏਆਈ ਸਿਹਤ ਮਸ਼ਵਰਾ",
+        "main_heading": "ਨਿਦਾਨਕ ਪ੍ਰਸ਼ਨਾਂ ਦੇ ਜਵਾਬ ਦਿਓ",
+        "loading_message": "ਪ੍ਰਸ਼ਨ ਲੋਡ ਹੋ ਰਹੇ ਹਨ...",
+        "submit_button": "ਜਵਾਬ ਜਮ੍ਹਾਂ ਕਰੋ",
+        "footer_text": "ਤੁਹਾਡੀ ਸਿਹਤ, ਸਾਡੀ ਤਰਜੀਹ!"
+    },
+    "diagnosis_page": {
+        "header_title": "ਏਆਈ ਸਿਹਤ ਪਰਾਮਰਸ਼",
+        "main_heading": "ਏਆਈ ਨਿਦਾਨ",
+        "diagnosis_label": "ਨਿਦਾਨ",
+        "advice_title": "ਸਿਹਤ ਸਲਾਹ",
+        "recommendations_title": "ਸਿਫਾਰਸ਼ਾਂ",
+        "consult_doctor_button": "ਡਾਕਟਰ ਨਾਲ ਸੰਪਰਕ ਕਰੋ",
+        "thank_you_button": "ਧੰਨਵਾਦ",
+        "footer_text": "ਤੁਹਾਡੀ ਸਿਹਤ, ਸਾਡੀ ਤਰਜੀਹ!"
+    },
+    "feedback_page": {
+        "header_title": "ਅਸੀਂ ਤੁਹਾਡੇ ਫੀਡਬੈਕ ਦੀ ਕਦਰ ਕਰਦੇ ਹਾਂ",
+        "form_title": "ਤੁਹਾਡਾ ਫੀਡਬੈਕ",
+        "star_rating": "ਸਟਾਰ ਚੁਣਿਆ ਗਿਆ",
+        "review_placeholder": "ਸਾਨੂੰ ਆਪਣੇ ਅਨੁਭਵ ਬਾਰੇ ਦੱਸੋ...",
+        "submit_button": "ਫੀਡਬੈਕ ਜਮ੍ਹਾਂ ਕਰੋ",
+        "footer_text": "ਸਾਨੂੰ ਬਿਹਤਰ ਬਣਾਉਣ ਵਿੱਚ ਸਹਾਇਤਾ ਕਰਨ ਲਈ ਧੰਨਵਾਦ!"
+    }
+}

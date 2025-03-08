@@ -1,0 +1,106 @@
+{
+    "welcome_page": {
+        "header_title": "हेल्थकेयर कियोस्क",
+        "main_heading": "हेल्थकेयर कियोस्क में स्वागत है",
+        "main_subheading": "त्वरित और आसान स्वास्थ्य जांच के लिए आपका एकमात्र समाधान।",
+        "language_label": "भाषा चुनें:",
+        "language_options": [
+            "अंग्रेज़ी",
+            "हिंदी",
+            "स्पैनिश",
+            "फ्रेंच"
+        ],
+        "speak_button": "बोलें",
+        "start_health_check_button": "स्वास्थ्य जांच शुरू करें",
+        "footer_text": "© 2025 हेल्थकेयर कियोस्क। सर्वाधिकार सुरक्षित।"
+    },
+    "patient_selection_page": {
+        "header_title": "हेल्थकेयर कियोस्क",
+        "main_heading": "हेल्थकेयर कियोस्क में स्वागत है",
+        "subheading": "कृपया जारी रखने के लिए अपना विकल्प चुनें",
+        "new_user_button": "नया उपयोगकर्ता",
+        "existing_user_button": "मौजूदा उपयोगकर्ता",
+        "footer_text": "© 2025 हेल्थकेयर कियोस्क। सर्वाधिकार सुरक्षित।"
+    },
+    "registration_page": {
+        "header_title": "हेल्थकेयर कियोस्क",
+        "page_title": "हेल्थकेयर कियोस्क मरीज पंजीकरण",
+        "patient_id_label": "मरीज आईडी:",
+        "form_labels": {
+            "name": "नाम",
+            "gender": "लिंग",
+            "age": "आयु",
+            "phone": "फोन",
+            "relative_phone": "वैकल्पिक फोन",
+            "email": "ईमेल",
+            "address": "पता"
+        },
+        "gender_options": [
+            "लिंग चुनें",
+            "पुरुष",
+            "महिला",
+            "अन्य"
+        ],
+        "submit_button": "जमा करें",
+        "validation_errors": {
+            "required": "आवश्यक",
+            "age_positive_integer": "यह सकारात्मक पूर्णांक होना चाहिए",
+            "phone_invalid": "अमान्य फोन नंबर",
+            "email_invalid": "अमान्य ईमेल प्रारूप"
+        },
+        "footer_text": "© 2025 हेल्थकेयर कियोस्क। सर्वाधिकार सुरक्षित।"
+    },
+    "patient_id_page": {
+        "header_title": "हेल्थकेयर कियोस्क",
+        "page_title": "मौजूदा मरीज – अपना अनूठा मरीज आईडी दर्ज करें",
+        "patient_id_placeholder": "मरीज आईडी दर्ज करें",
+        "phone_placeholder": "फोन नंबर दर्ज करें",
+        "continue_button": "जारी रखें",
+        "validation_errors": {
+            "required": "मरीज आईडी आवश्यक है",
+            "invalid_format": "मरीज आईडी में केवल अक्षर और संख्या होनी चाहिए"
+        },
+        "footer_text": "© 2025 हेल्थकेयर कियोस्क। सर्वाधिकार सुरक्षित।"
+    },
+    "doctor_ai_selection_page": {
+        "header_title": "हेल्थकेयर कियोस्क",
+        "main_heading": "हेल्थकेयर कियोस्क में स्वागत है",
+        "subheading": "कृपया अपनी परामर्श विकल्प का चयन करें",
+        "ai_consultation_button": "AI के साथ",
+        "doctor_consultation_button": "डॉक्टर के साथ",
+        "footer_text": "© 2025 हेल्थकेयर कियोस्क। सर्वाधिकार सुरक्षित।"
+    },
+    "ai_interaction_page": {
+        "title": "एआई स्वास्थ्य परामर्श",
+        "prompt": "अपने लक्षणों का वर्णन करें",
+        "placeholder": "अपने लक्षणों का वर्णन करें...",
+        "send_button": "भेजें",
+        "microphone_toggle": "माइक्रोफ़ोन टॉगल करें",
+        "footer_text": "आपका स्वास्थ्य, हमारी प्राथमिकता। स्वस्थ रहें!"
+    },
+    "diagnostic_questions_page": {
+        "header_title": "एआई स्वास्थ्य परामर्श",
+        "main_heading": "नैदानिक प्रश्नों के उत्तर दें",
+        "loading_message": "प्रश्न लोड हो रहे हैं...",
+        "submit_button": "उत्तर सबमिट करें",
+        "footer_text": "आपका स्वास्थ्य, हमारी प्राथमिकता!"
+    },
+    "diagnosis_page": {
+        "header_title": "एआई स्वास्थ्य परामर्श",
+        "main_heading": "एआई निदान",
+        "diagnosis_label": "निदान",
+        "advice_title": "स्वास्थ्य सलाह",
+        "recommendations_title": "सिफारिशें",
+        "consult_doctor_button": "डॉक्टर से परामर्श करें",
+        "thank_you_button": "धन्यवाद",
+        "footer_text": "आपका स्वास्थ्य, हमारी प्राथमिकता!"
+    },
+    "feedback_page": {
+        "header_title": "हम आपके सुझावों की कदर करते हैं",
+        "form_title": "आपका सुझाव",
+        "star_rating": "स्टार चुना गया",
+        "review_placeholder": "हमें अपने अनुभव के बारे में बताएं...",
+        "submit_button": "प्रतिक्रिया जमा करें",
+        "footer_text": "हमें बेहतर बनाने में मदद करने के लिए धन्यवाद!"
+    }
+}

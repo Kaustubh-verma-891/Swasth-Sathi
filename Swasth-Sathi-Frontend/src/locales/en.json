@@ -1,0 +1,106 @@
+{
+    "welcome_page": {
+        "header_title": "HealthCare Kiosk",
+        "main_heading": "Welcome to HealthCare Kiosk",
+        "main_subheading": "Your one-stop solution for quick and easy health checkups.",
+        "language_label": "Select Language:",
+        "language_options": [
+            "English",
+            "Hindi",
+            "Spanish",
+            "French"
+        ],
+        "speak_button": "Speak",
+        "start_health_check_button": "Start Health Check",
+        "footer_text": "© 2025 HealthCare Kiosk. All rights reserved."
+    },
+    "patient_selection_page": {
+        "header_title": "HealthCare Kiosk",
+        "main_heading": "Welcome to HealthCare Kiosk",
+        "subheading": "Please select your option to continue",
+        "new_user_button": "New User",
+        "existing_user_button": "Existing User",
+        "footer_text": "© 2025 HealthCare Kiosk. All rights reserved."
+    },
+    "registration_page": {
+        "header_title": "HealthCare Kiosk",
+        "page_title": "Healthcare Kiosk Patient Registration",
+        "patient_id_label": "Patient ID:",
+        "form_labels": {
+            "name": "Name",
+            "gender": "Gender",
+            "age": "Age",
+            "phone": "Phone",
+            "relative_phone": "Alternate Phone",
+            "email": "Email",
+            "address": "Address"
+        },
+        "gender_options": [
+            "Select gender",
+            "Male",
+            "Female",
+            "Other"
+        ],
+        "submit_button": "Submit",
+        "validation_errors": {
+            "required": "Required",
+            "age_positive_integer": "Must be a positive integer",
+            "phone_invalid": "Invalid phone number",
+            "email_invalid": "Invalid email format"
+        },
+        "footer_text": "© 2025 HealthCare Kiosk. All rights reserved."
+    },
+    "patient_id_page": {
+        "header_title": "HealthCare Kiosk",
+        "page_title": "Existing Patient – Enter Your Unique Patient ID",
+        "patient_id_placeholder": "Enter Patient ID",
+        "phone_placeholder": "Enter Phone Number",
+        "continue_button": "Continue",
+        "validation_errors": {
+            "required": "Patient ID is required",
+            "invalid_format": "Patient ID should contain only letters and numbers"
+        },
+        "footer_text": "© 2025 HealthCare Kiosk. All rights reserved."
+    },
+    "doctor_ai_selection_page": {
+        "header_title": "HealthCare Kiosk",
+        "main_heading": "Welcome to HealthCare Kiosk",
+        "subheading": "Please select your consultation option",
+        "ai_consultation_button": "With AI",
+        "doctor_consultation_button": "With Doctor",
+        "footer_text": "© 2025 HealthCare Kiosk. All rights reserved."
+    },
+    "ai_interaction_page": {
+        "title": "AI Health Consultation",
+        "prompt": "Describe Your Symptoms",
+        "placeholder": "Describe your symptoms...",
+        "send_button": "Send",
+        "microphone_toggle": "Toggle Microphone",
+        "footer_text": "Your health, our priority. Stay healthy!"
+    },
+    "diagnostic_questions_page": {
+        "header_title": "AI Health Consultation",
+        "main_heading": "Answer Diagnostic Questions",
+        "loading_message": "Loading questions...",
+        "submit_button": "Submit Answers",
+        "footer_text": "Your health, our priority!"
+    },
+    "diagnosis_page": {
+        "header_title": "AI Health Consultation",
+        "main_heading": "AI Diagnosis",
+        "diagnosis_label": "Diagnosis",
+        "advice_title": "Health Advice",
+        "recommendations_title": "Recommendations",
+        "consult_doctor_button": "Consult with Doctor",
+        "thank_you_button": "Thank You",
+        "footer_text": "Your health, our priority!"
+    },
+    "feedback_page": {
+        "header_title": "We Value Your Feedback",
+        "form_title": "Your Feedback",
+        "star_rating": "star selected",
+        "review_placeholder": "Tell us about your experience...",
+        "submit_button": "Submit Feedback",
+        "footer_text": "Thank you for helping us improve!"
+    }
+}

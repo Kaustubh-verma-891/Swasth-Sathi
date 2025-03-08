@@ -1,0 +1,106 @@
+{
+    "welcome_page": {
+        "header_title": "हेल्थकेअर किओस्क",
+        "main_heading": "हेल्थकेअर किओस्क मध्ये स्वागत आहे",
+        "main_subheading": "झपाट्याने आणि सोप्या आरोग्य तपासणीसाठी तुमचं एकाच ठिकाणी समाधान.",
+        "language_label": "भाषा निवडा:",
+        "language_options": [
+            "इंग्रजी",
+            "हिंदी",
+            "स्पॅनिश",
+            "फ्रेंच"
+        ],
+        "speak_button": "बोल",
+        "start_health_check_button": "आरोग्य तपासणी सुरू करा",
+        "footer_text": "© 2025 हेल्थकेअर किओस्क. सर्व हक्क राखीव."
+    },
+    "patient_selection_page": {
+        "header_title": "हेल्थकेअर किओस्क",
+        "main_heading": "हेल्थकेअर किओस्क मध्ये स्वागत आहे",
+        "subheading": "कृपया पुढे जाण्यासाठी आपला पर्याय निवडा",
+        "new_user_button": "नवा वापरकर्ता",
+        "existing_user_button": "मौजूदा वापरकर्ता",
+        "footer_text": "© 2025 हेल्थकेअर किओस्क. सर्व हक्क राखीव."
+    },
+    "registration_page": {
+        "header_title": "हेल्थकेअर किओस्क",
+        "page_title": "हेल्थकेअर किओस्क रुग्ण नोंदणी",
+        "patient_id_label": "रुग्ण आयडी:",
+        "form_labels": {
+            "name": "नाव",
+            "gender": "लिंग",
+            "age": "वय",
+            "phone": "फोन",
+            "relative_phone": "पर्यायी फोन",
+            "email": "ईमेल",
+            "address": "पत्ता"
+        },
+        "gender_options": [
+            "लिंग निवडा",
+            "पुरुष",
+            "महिला",
+            "इतर"
+        ],
+        "submit_button": "सबमिट करा",
+        "validation_errors": {
+            "required": "आवश्यक",
+            "age_positive_integer": "तो एक सकारात्मक पूर्णांक असावा",
+            "phone_invalid": "अवैध फोन नंबर",
+            "email_invalid": "अवैध ईमेल प्रारूप"
+        },
+        "footer_text": "© 2025 हेल्थकेअर किओस्क. सर्व हक्क राखीव."
+    },
+    "patient_id_page": {
+        "header_title": "हेल्थकेअर किओस्क",
+        "page_title": "मौजूदा रुग्ण – आपला अद्वितीय रुग्ण आयडी प्रविष्ट करा",
+        "patient_id_placeholder": "रुग्ण आयडी प्रविष्ट करा",
+        "phone_placeholder": "फोन नंबर टाका",
+        "continue_button": "सुरू ठेवा",
+        "validation_errors": {
+            "required": "रुग्ण आयडी आवश्यक आहे",
+            "invalid_format": "रुग्ण आयडी मध्ये फक्त अक्षरे आणि संख्याच असाव्यात"
+        },
+        "footer_text": "© 2025 हेल्थकेअर किओस्क. सर्व हक्क राखीव."
+    },
+    "doctor_ai_selection_page": {
+        "header_title": "हेल्थकेअर किओस्क",
+        "main_heading": "हेल्थकेअर किओस्क मध्ये स्वागत आहे",
+        "subheading": "कृपया आपला परामर्श पर्याय निवडा",
+        "ai_consultation_button": "AI सह",
+        "doctor_consultation_button": "डॉक्टर सह",
+        "footer_text": "© 2025 हेल्थकेअर किओस्क. सर्व हक्क राखीव."
+    },
+    "ai_interaction_page": {
+        "title": "एआय आरोग्य सल्ला",
+        "prompt": "तुमचे लक्षण वर्णन करा",
+        "placeholder": "तुमचे लक्षण वर्णन करा...",
+        "send_button": "पाठवा",
+        "microphone_toggle": "मायक्रोफोन टॉगल करा",
+        "footer_text": "तुमचे आरोग्य, आमची प्राथमिकता. स्वस्थ राहा!"
+    },
+    "diagnostic_questions_page": {
+        "header_title": "एआय आरोग्य सल्ला",
+        "main_heading": "निदानात्मक प्रश्नांची उत्तरे द्या",
+        "loading_message": "प्रश्न लोड करत आहे...",
+        "submit_button": "उत्तर सबमिट करा",
+        "footer_text": "आपले आरोग्य, आमचे प्राधान्य!"
+    },
+    "diagnosis_page": {
+        "header_title": "एआय आरोग्य सल्ला",
+        "main_heading": "एआय निदान",
+        "diagnosis_label": "निदान",
+        "advice_title": "आरोग्य सल्ला",
+        "recommendations_title": "शिफारसी",
+        "consult_doctor_button": "डॉक्टरशी सल्लामसलत करा",
+        "thank_you_button": "धन्यवाद",
+        "footer_text": "तुमचे आरोग्य, आमचे प्राधान्य!"
+    },
+    "feedback_page": {
+        "header_title": "आम्हाला तुमच्या अभिप्रायाची कदर आहे",
+        "form_title": "तुमचा अभिप्राय",
+        "star_rating": "स्टार निवडले",
+        "review_placeholder": "तुमचा अनुभव आम्हाला सांगा...",
+        "submit_button": "अभिप्राय सबमिट करा",
+        "footer_text": "आम्हाला सुधारण्यास मदत केल्याबद्दल धन्यवाद!"
+    }
+}
